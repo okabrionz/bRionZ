@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "jasa-artikel-seo.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8",
     "uniqCompNum": 21,
     "versionPublish": "3.10",
@@ -348,7 +348,7 @@
           },
           "title": "JASA PENULIS ARTIKEL SEO PROFESIONAL",
           "text": "Penulis artikel SEO profesional, kompeten, dan berpengalaman, Dengan biaya yang murah.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PESAN ARTIKEL SEO</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"jasa-artikel-seo.html\" data-toolbar=\"-mbrBtnMove\">PESAN ARTIKEL SEO</a>"
         },
         {
           "_tags": [
