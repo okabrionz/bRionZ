@@ -168,11 +168,15 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/desert.jpg"
+              "src": "@PROJECT_PATH@/assets/images/full-unsplash-uploads-141103282695035fa1380-95cdfeef-1400x718-64.jpg",
+              "active": true,
+              "link": "",
+              "alt": "jasa penulis artikel",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
-              "active": true,
-              "src": "https://www.youtube-nocookie.com/embed/nVQnCnEyXEU",
+              "src": "https://www.youtube.com/watch?v=nVQnCnEyXEU",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": "on"
@@ -331,7 +335,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/4boZrRDKPdo?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/nVQnCnEyXEU?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -344,7 +348,7 @@
           },
           "title": "JASA PENULIS PROFESIONAL",
           "text": "Menulis adalah hal &nbsp;yang sangat mudah. Namun ketika Anda tidak memiliki inspirasi untuk menjadi bahan tulisan, kami siap membantu Anda.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PESAN ARTIKEL INDONESIA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PESAN ARTIKEL INGGRIS</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PESAN ARTIKEL INDONESIA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PESAN ARTIKEL INGGRIS</a>"
         },
         {
           "_tags": [
