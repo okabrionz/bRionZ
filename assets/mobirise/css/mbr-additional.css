@@ -414,6 +414,9 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #e25041;
 }
+#features2-9 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
 #menu-b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -484,7 +487,4 @@ h6,
 }
 #msg-box7-1 P {
   color: #00a885;
-}
-#features2-9 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
 }
