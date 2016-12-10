@@ -494,9 +494,10 @@ h6,
 }
 #msg-box7-i H3 {
   text-align: right;
+  color: #ffffff;
 }
 #msg-box7-i P {
-  color: #00a885;
+  color: #efefef;
 }
 #features2-g .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
