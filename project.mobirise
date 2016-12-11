@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "artikel-bahasa-indonesia.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8",
     "uniqCompNum": 29,
     "versionPublish": "3.10",
@@ -71,7 +71,7 @@
           },
           "title": "JASA PENULIS ARTIKEL PROFESIONAL",
           "text": "Menulis adalah hal &nbsp;yang sangat mudah. Namun ketika Anda tidak memiliki inspirasi untuk menjadi bahan tulisan, kami siap membantu Anda.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PESAN ARTIKEL INDONESIA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PESAN ARTIKEL INGGRIS</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"artikel-bahasa-indonesia.html\" data-toolbar=\"-mbrBtnMove\">PESAN ARTIKEL INDONESIA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PESAN ARTIKEL INGGRIS</a>"
         },
         {
           "_inherit": "features1",
@@ -406,7 +406,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">JASATULIS.COM</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-9\">LAYANAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://blog.jasatulis.com/\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://www.jasatulis.com/helps/\" aria-expanded=\"false\">HELPS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forums.jasatulis.com/\">Forums</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-e\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ORDER SEKARANG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-9\">LAYANAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://blog.jasatulis.com/\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://www.jasatulis.com/helps/\" aria-expanded=\"false\">BANTUAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forums.jasatulis.com/\">Forums</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-e\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ORDER SEKARANG</a></li>"
         }
       ]
     },
@@ -650,7 +650,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">JASATULIS.COM</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-9\">LAYANAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://blog.jasatulis.com/\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://www.jasatulis.com/helps/\" aria-expanded=\"false\">HELPS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forums.jasatulis.com/\">Forums</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-e\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ORDER SEKARANG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-9\">LAYANAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://blog.jasatulis.com/\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://www.jasatulis.com/helps/\" aria-expanded=\"false\">BANTUAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forums.jasatulis.com/\">Forums</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-e\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ORDER SEKARANG</a></li>"
         }
       ]
     },
@@ -729,7 +729,7 @@
           "subtitle2": "Paket Artikel Bhs. Indonesia Business.",
           "currency2": "IDR<br>",
           "price2": "250",
-          "period2": "K/12",
+          "period2": "K/11",
           "description2": "Total 12 Artikel Bhs. Indonesia Profesional, 500 kata tiap artikel.",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">500 Kata Artikel Bhs. Indonesia</li><li class=\"list-group-item\">100% Lulus Copyscape</li><li class=\"list-group-item\">Gratis 2x Revisi</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">PESAN</a>",
@@ -738,7 +738,7 @@
           "subtitle3": "Paket Artikel Bhs. Indonesia Premium.",
           "currency3": "IDR<br>",
           "price3": "450",
-          "period3": "K/15",
+          "period3": "K/13",
           "description3": "Total 15 Artikel Bhs. Indonesia Profesional, 800 kata tiap artikel.",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">800 Kata Artikel Bhs. Indonesia</li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">100% Lulus Copyscape</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Gratis 5x Revisi</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">1 Gambar tiap Artikel</span></li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">PESAN</a>",
@@ -747,7 +747,7 @@
           "subtitle4": "Paket Artikel Bhs. Indonesia Ultimate.",
           "currency4": "IDR<br>",
           "price4": "800",
-          "period4": "K/18",
+          "period4": "K/15",
           "description4": "Total 15 Artikel Bhs. Indonesia Profesional, 1200 kata tiap artikel.",
           "list4": "<ul class=\"list-group list-group-flush\"><p></p><li class=\"list-group-item\">1200 Kata Artikel Bhs. Indonesia</li><li class=\"list-group-item\">100% Lulus Copyscape</li><li class=\"list-group-item\">Unlimited Revisi</li><li class=\"list-group-item\">3 Gambar tiap Artikel</li><li class=\"list-group-item\">Gratis Biaya Posting ke Website.</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">PESAN</a>"
@@ -894,7 +894,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">JASATULIS.COM</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-9\">LAYANAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://blog.jasatulis.com/\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://www.jasatulis.com/helps/\" aria-expanded=\"false\">HELPS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forums.jasatulis.com/\">Forums</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-e\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ORDER SEKARANG</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features2-9\">LAYANAN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://blog.jasatulis.com/\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://www.jasatulis.com/helps/\" aria-expanded=\"false\">BANTUAN</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://forums.jasatulis.com/\">Forums</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-e\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">ORDER SEKARANG</a></li>"
         }
       ]
     }
