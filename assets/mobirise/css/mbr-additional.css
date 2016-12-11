@@ -590,7 +590,7 @@ h6,
   border-color: #cfcfcf;
 }
 #pricing-table2-p .mbr-section__container .mbr-section-subtitle {
-  color: #000000;
+  color: #232323;
 }
 #pricing-table2-p .mbr-section__container .mbr-section-title {
   color: #ffffff;
@@ -654,5 +654,89 @@ h6,
 }
 #menu-s .link[aria-expanded="true"],
 #menu-s .dropdown-item[aria-expanded="true"] {
+  color: #e25041!important;
+}
+#pricing-table2-t .mbr-plan-header,
+#pricing-table2-t .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-t ul,
+#pricing-table2-t .mbr-plan-title,
+#pricing-table2-t .mbr-price-value,
+#pricing-table2-t .mbr-price-figure,
+#pricing-table2-t .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-t .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-t .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#pricing-table2-t .mbr-section__container .mbr-section-subtitle {
+  color: #000000;
+}
+#pricing-table2-t .mbr-section__container .mbr-section-title {
+  color: #ffffff;
+}
+#menu-w .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-w .navbar-caption {
+  color: #ffffff;
+}
+#menu-w .navbar-toggler {
+  color: #ffffff;
+}
+#menu-w .close-icon::before,
+#menu-w .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-w .link,
+#menu-w .dropdown-item {
+  color: #ffffff;
+}
+#menu-w .link {
+  font-size: 0.75rem;
+}
+#menu-w .dropdown-item,
+#menu-w .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-w .link:hover,
+#menu-w .dropdown-item:hover,
+#menu-w .link:focus,
+#menu-w .dropdown-item:focus {
+  color: #e25041;
+}
+#menu-w .link[aria-expanded="true"],
+#menu-w .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-w .nav-dropdown-sm .link:focus,
+#menu-w .nav-dropdown-sm .link:hover,
+#menu-w .nav-dropdown-sm .dropdown-item:focus,
+#menu-w .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-w .navbar,
+#menu-w .nav-dropdown-sm,
+#menu-w .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-w .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-w .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-w .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-w .bg-color.transparent.opened .link:hover,
+#menu-w .bg-color.transparent.opened .link:focus {
+  color: #e25041;
+}
+#menu-w .link[aria-expanded="true"],
+#menu-w .dropdown-item[aria-expanded="true"] {
   color: #e25041!important;
 }
