@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "kontak-kami.html",
+    "currentPage": "index.html",
     "versionFirst": "3.8",
     "uniqCompNum": 38,
     "versionPublish": "3.10",
@@ -70,7 +70,7 @@
             "showButtons": true
           },
           "title": "JASA PENULIS ARTIKEL PROFESIONAL",
-          "text": "Menulis adalah hal &nbsp;yang sangat mudah. Tapi, ada kalanya Anda tidak memiliki inspirasi untuk saat menulis. Saat masa itu datang, kami siap membantu Anda.",
+          "text": "Menulis adalah hal &nbsp;yang sangat mudah. Tapi, ada kalanya Anda tidak memiliki inspirasi saat ingin menulis. Saat masa itu datang, kami siap membantu Anda.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"artikel-bahasa-indonesia.html\" data-toolbar=\"-mbrBtnMove\">PESAN ARTIKEL INDONESIA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"artikel-bahasa-inggris.html\" data-toolbar=\"-mbrBtnMove\">PESAN ARTIKEL INGGRIS</a>"
         },
         {
