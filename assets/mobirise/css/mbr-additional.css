@@ -572,3 +572,87 @@ h6,
 #menu-h .dropdown-item[aria-expanded="true"] {
   color: #e25041!important;
 }
+#pricing-table2-p .mbr-plan-header,
+#pricing-table2-p .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-p ul,
+#pricing-table2-p .mbr-plan-title,
+#pricing-table2-p .mbr-price-value,
+#pricing-table2-p .mbr-price-figure,
+#pricing-table2-p .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-p .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-p .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#pricing-table2-p .mbr-section__container .mbr-section-subtitle {
+  color: #000000;
+}
+#pricing-table2-p .mbr-section__container .mbr-section-title {
+  color: #ffffff;
+}
+#menu-s .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-s .navbar-caption {
+  color: #ffffff;
+}
+#menu-s .navbar-toggler {
+  color: #ffffff;
+}
+#menu-s .close-icon::before,
+#menu-s .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-s .link,
+#menu-s .dropdown-item {
+  color: #ffffff;
+}
+#menu-s .link {
+  font-size: 0.75rem;
+}
+#menu-s .dropdown-item,
+#menu-s .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-s .link:hover,
+#menu-s .dropdown-item:hover,
+#menu-s .link:focus,
+#menu-s .dropdown-item:focus {
+  color: #e25041;
+}
+#menu-s .link[aria-expanded="true"],
+#menu-s .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-s .nav-dropdown-sm .link:focus,
+#menu-s .nav-dropdown-sm .link:hover,
+#menu-s .nav-dropdown-sm .dropdown-item:focus,
+#menu-s .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-s .navbar,
+#menu-s .nav-dropdown-sm,
+#menu-s .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-s .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-s .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-s .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-s .bg-color.transparent.opened .link:hover,
+#menu-s .bg-color.transparent.opened .link:focus {
+  color: #e25041;
+}
+#menu-s .link[aria-expanded="true"],
+#menu-s .dropdown-item[aria-expanded="true"] {
+  color: #e25041!important;
+}
