@@ -1,5 +1,5 @@
 /*!
- * Default theme v2 (https://www.jasatulis.com/)
+ * Default theme v2 (https://mobirise.com/)
  * Copyright 2016 Mobirise
  */
 .container {
@@ -1908,7 +1908,11 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     bottom: 15px; } }
 @media (min-width: 768px) {
   .mbr-right-padding-md-up {
-    padding-right: 85px; } }
+    padding-right: 60px; } }
+
+@media (min-width: 768px) {
+  .mbr-left-padding-md-up {
+    padding-left: 60px; } }
 
 .mbr-valign-top {
   vertical-align: top; }
@@ -2041,13 +2045,13 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 /* msg-box4 */
 .mbr-iconfont.mbr-iconfont-msg-box4,
 .mbr-iconfont.mbr-iconfont-msg-box5 {
-  font-size: 357px;
+  font-size: 250px;
   text-decoration: none;
   color: #232323; }
 
 /* header2 */
 .mbr-iconfont.mbr-iconfont-header2 {
-  font-size: 400px;
+  font-size: 250px;
   text-decoration: none;
   color: #fff; }
 
@@ -2117,6 +2121,20 @@ html.is-builder .article .lead:not([data-app-remove-it]) + div .btn {
   margin-top: 2.3125rem; }
 .article .mbr-section-subtitle {
   margin-bottom: 0; }
+
+.content-size {
+  width: auto; }
+
+.image-size {
+  vertical-align: middle;
+  margin: auto;
+  text-align: center; }
+  .image-size .mbr-figure {
+    padding-top: 3px; }
+
+@media (max-width: 768px) {
+  .image-size {
+    width: 100% !important; } }
 
 /*# sourceMappingURL=style.css.map */
 .engine {

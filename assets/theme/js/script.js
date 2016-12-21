@@ -473,10 +473,15 @@
     }
     });
 
-    //Fix menu only for the Opera Mini
-    var isOperaMini = (navigator.userAgent.indexOf('Opera Mini') > -1);
-    if(isOperaMini){
-        $('.hamburger-icon').css({'width':'30px', 'height':'3px', 'background-color':'#ffffff', 'box-shadow':'none', 'position':'relative'}).addClass('hamburger-om');
+    //Fix menu for Mobile Phones 
+    
+    var agentIndex = function(name) {
+        return this.navigator.userAgent.indexOf(name);
+    };
+    var isMobile = (agentIndex('Mobile') != -1 || ((agentIndex('Android') != -1) && (agentIndex('Browser') != -1)));
+      if(isMobile){
+        $('.hamburger-icon').css({'width':'30px', 'height':'3px', 'background-color':'#fff', 'box-shadow':'none', 'position':'relative'}).addClass('hamburger-om');
+        $('.mbr-arrow img').css({'top':'20px', 'right':'13px'});
     }
 
 })(jQuery);
@@ -488,7 +493,7 @@
         var e = document.createElement("section");
         e.id = "top-1";
         e.className = "engine";
-        e.innerHTML = '<a href="https://www.jasatulis.com">mobirise.com</a> Mobirise v3.10';
+        e.innerHTML = '<a href="https://mobirise.com">mobirise.com</a> Mobirise v3.10.3';
         document.body.insertBefore(e, document.body.childNodes[0]);
     }
 }();

@@ -3,7 +3,7 @@
     "currentPage": "index.html",
     "versionFirst": "3.8",
     "uniqCompNum": 38,
-    "versionPublish": "3.10",
+    "versionPublish": "3.10.3",
     "name": "JasaTulis.com",
     "theme": {
       "name": "mobirise3",
@@ -27,8 +27,7 @@
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-88829608-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "",
-    "publishType": "github",
-    "publishPath": "file:///C:/Users/BRIONZ-LAPTOP/Documents/GitHub/bRionZ"
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -219,6 +218,7 @@
           "_name": "msg-box7",
           "_anchor": "msg-box7-1",
           "_params": {
+            "imageSize": 50,
             "paddingTop": "6",
             "paddingBottom": "6",
             "parallax": true,
@@ -242,17 +242,17 @@
             "image": {
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/full-unsplash-uploads-141103282695035fa1380-95cdfeef-1400x718-64.jpg",
-              "active": true,
               "link": "",
               "alt": "jasa penulis artikel",
               "title": "",
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=nVQnCnEyXEU",
+              "src": "https://www.youtube.com/watch?v=_-SvXyolGRk",
               "aspectratio": "16:9",
-              "autoplay": "on",
-              "loop": "on"
+              "autoplay": false,
+              "loop": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
